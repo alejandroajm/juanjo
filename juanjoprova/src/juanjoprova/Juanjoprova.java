@@ -17,6 +17,7 @@ public class Juanjoprova {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("hola juanjo");
+        System.out.print("com estas");
     }
     
 }
